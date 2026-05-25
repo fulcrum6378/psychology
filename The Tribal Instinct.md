@@ -1,10 +1,33 @@
-Human beings developed a system of instincts to obsess about their self-esteem
-which is the very attribute that turned them into social animals.
+# The Social Defence Instinct Theory
 
-The instinct of self-esteem tends to make the brain falsely regard a person's
-self-esteem as a matter of life-or-death which is the reason behind
-personality disorders (clusters B and C) and most of neuroses in the world
-especially the ones that are harder to heal.
+## Premise
+
+The human brain developed a system of integrated instincts to become a sociable animal.
+This system revolves around **self-esteem** which give reality to these concepts:
+
+- Identity
+- Ownership
+- Relationships & Attachments
+- Morality
+- Purpose of Life & Desire for Continuum
+
+## Thought Camouflage
+
+This instinct provides a thought camouflage system; it instills its ambitions onto
+consciousness using reasons that seem more logical hiding its actual intent which is
+none other than self-esteem!
+This results in people much more strongly apt to follow those decisions as if it's
+their own life-or-death problem, but it's actually a matter of self-esteem despite
+they are unaware of it!
+And this camouflage of self-esteem, also called "Repression" by Sigmund Freud,
+is created for the survival of human masses rather than individual survival!
+
+## The Engine behind Neurosis
+
+The social instinct tends to make the brain falsely regard a person's self-esteem as
+a matter of life-or-death which is the reason behind personality disorders
+(clusters B and C) and most of neuroses in the world especially the ones that are
+harder to heal.
 
 Despite this instinct has been necessary for the survival of human groups in prehistory,
 self-esteem is not always necessary for survival of people especially in the modern era.
@@ -38,3 +61,8 @@ Highly Sensitive Person (HSP)!
 
 If the person revises these kinds of axiological beliefs and become indifferent to them,
 their defence mechanisms will automatically fall.
+
+## The Engine behind Identity
+
+Identity itself is a camouflage of self-esteem!
+Without a group and its survival, identity is meaningless, as well as purpose of life!
