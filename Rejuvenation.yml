@@ -1,0 +1,61 @@
+- !Summary!:
+  happiness: DMN Exit
+  complex anxiety: Stoicism
+  social anxiety: De-socialisation
+  depression: Determinism
+
+- DMN Exit:
+    efficacy:
+      happiness: !PERFECT!
+
+- Full Agency:
+    efficacy:
+      happiness: nice
+
+- De-socialisation of Superego:
+    efficacy:
+      anxiety: !PERFECT!
+      depression: nice
+
+- Determinism:
+    efficacy:
+      anger: none
+      anxiety: nice if it's about self not others
+      depression: !PERFECT!
+
+- Stoicism:
+    efficacy:
+      anger: none
+      anxiety:
+        merely egoistic: unapplicable
+        merely social: nice
+        egoistic+social: !PERFECT!
+
+- Exposure:
+    efficacy:
+      anxiety: nice
+      depression: negative
+      phobia: !PERFECT!
+    methods:
+      - Gradual exposure
+      - EMDR
+      - Flooding
+
+- Mindfulness:
+  efficacy:
+    anger: nice
+    anxiety: nice
+    depression: negative
+    insomnia: !PERFECT!
+
+- Meditation:
+  efficacy:
+    anxiety: little, sometimes negative
+
+- Stress Management:
+  efficacy:
+    anger: great
+    anxiety: fragile, sometimes negative
+  methods:
+    - Deep breath
+    - Muscle relaxation
