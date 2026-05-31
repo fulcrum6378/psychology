@@ -1,18 +1,9 @@
-- !Summary!:
-  happiness: DMN Exit
+- !BEST!:
   complex anxiety: Stoicism
-  social anxiety: De-socialisation
+  social anxiety: Desocialisation
   depression: Determinism
 
-- DMN Exit:
-    efficacy:
-      happiness: !PERFECT!
-
-- Full Agency:
-    efficacy:
-      happiness: nice
-
-- De-socialisation of Superego:
+- Desocialisation of Superego:
     efficacy:
       anxiety: !PERFECT!
       depression: nice
