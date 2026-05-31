@@ -1,7 +1,9 @@
 - !BEST!:
+  depression: Determinism
   complex anxiety: Stoicism
   social anxiety: Desocialisation
-  depression: Determinism
+  phobia: Exposure
+  insomnia: Mindfulness
 
 - Desocialisation of Superego:
     efficacy:
@@ -9,6 +11,9 @@
       depression: nice
 
 - Determinism:
+    premises:
+      past: WAS = HAD TO BE
+      future: WANT + CAN = WILL
     efficacy:
       anger: none
       anxiety: nice if it's about self not others
@@ -37,7 +42,7 @@
     anger: nice
     anxiety: nice
     depression: negative
-    insomnia: !PERFECT!
+    insomnia: great
 
 - Meditation:
   efficacy:
