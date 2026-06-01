@@ -74,7 +74,7 @@ survival of a single individual.
 
 Now people are different in the strength of their tribal instinct; about one third of general population might meet the
 criteria for social neuroses in their lifetimes and a smaller percentage of them meet the criteria of the personality
-disorders I mentioned in [SocialDefence.yml](SocialDefence.yml), and they can be called **Selfless people** as well,
+disorders I mentioned in [DefenceSocial.yml](DefenceSocial.yml), and they can be called **Selfless people** as well,
 despite actually it is merely their self-esteem that is more at stake, but we call them selfless here in the way of
 evolutionary psychology.
 
@@ -100,7 +100,7 @@ They wouldn't become competitive, jealous or Machiavellian either.
 Although they might feel stress in actual scenarios of life-or-death.
 But most of us would not want to go through so much change, do we?
 
-## Treatment of Social Neuroses
+## Treatment of Social Psychological Pains
 
 Self-esteem operates based on ownership and classes and hierarchies;
 if an adult suffers from neurosis because of their self-esteem, a hard but hugely relieving way would be to disbelieve
