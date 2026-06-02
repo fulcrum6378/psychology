@@ -187,18 +187,18 @@ conscientiousness, what they call *obsessive-compulsive "personality" disorder* 
 disorders (DSM-V) occur when this instinct is too strong in a person. Cluster B personalities are rooted in narcissism.
 A person's self-image also is a factor determining whether a person is a soldier or a commander, a king or a commoner.
 
-| DSM-V diagnosis                   | Conscientiousness | Narcissism | Confidence |
-|-----------------------------------|:-----------------:|:----------:|:----------:|
-| Obsessive-compulsive behaviour    |     any of 2      |  any of 2  | normal/low |
-| Obsessive-compulsive personality  |       high        |   normal   |    high    |
-| Narcissistic personality (overt)  |    normal/high    |    high    |    high    |
-| Narcissistic personality (covert) |    normal/high    |    high    |   normal   |
-| Avoidant personality              |    normal/high    |    high    |    low     |
-| Dependent personality             |        low        |   normal   |    low     |
-| Histrionic personality            |        low        |    high    |   normal   |
-| Borderline personality            |        low        |    high    |    low     |
-| Attention-deficit / hyperactivity |        low        |    high    |    high    |
-| Social anxiety                    |         ?         |    high    | normal/low |
-| Asperger's syndrome (or ASD-1)    |       high        |    low     |     ?      |
-| Anti-social personality           |        low        |    low     |    high    |
-| Schizoid personality              |        low        |    low     |    low     |
+| DSM-V diagnosis                   | Tribality | Dissociality | Inhibition |   Confidence    |
+|-----------------------------------|:---------:|:------------:|:----------:|:---------------:|
+| Obsessive-compulsive behaviour    |   high    |      ?       |     ?      |       low       |
+| Obsessive-compulsive personality  |   high    |     low      |    high    |      high       |
+| Narcissistic personality (overt)  |   high    |     high     |    low     | high(masculine) |
+| Histrionic personality            |   high    |     high     |    low     | high(feminine)  |
+| Narcissistic personality (covert) |   high    |     high     |   normal   |     normal      |
+| Avoidant personality              |   high    |     high     |    high    |       low       |
+| Dependent personality             |   high    |    normal    |    high    |       low       |
+| Borderline personality            |   high    |     high     |    low     |       low       |
+| Attention-deficit / hyperactivity |   high    |     high     |    low     |      high       |
+| Social anxiety                    |   high    |     high     |    high    |   normal/low    |
+| Asperger's syndrome (or ASD-1)    |     ?     |     low      |    high    |        ?        |
+| Anti-social personality           |    low    |     low      |    low     |      high       |
+| Schizoid personality              |    low    |     low      |    high    |       low       |
