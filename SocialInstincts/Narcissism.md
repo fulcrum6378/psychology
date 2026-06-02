@@ -33,5 +33,5 @@ You're as narcissistic as you are a Machiavellian.
 It's the same system although some Merchants may show the former more strongly and some the latter.
 
 If narcissism is measured accurately in people using sci-fi brain scan devices,
-I think Iranians would score high on that scale and the reason for that is
-because Iranians have long been merchants for millennia.
+I think Arabs, Europeans and Persians would score the highest on that scale and the reason for that is
+because they have long been merchants for millennia.
