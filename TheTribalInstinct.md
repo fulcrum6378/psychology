@@ -121,24 +121,19 @@ frustrating!
 
 ---
 
-## Operating Systems
+## Dissociality
 
-The Tribal Instinct has developed two, often coexisting, operating systems for survival:
+The Tribal Instinct has a dimension that indicates whether the person is more or less important than others,
+and its scale will be determined in childhood.
+If it goes high, it would result in selfishness, **narcissism** (masculine), **histrionicism** (feminine)
+and **Machiavellianism**. If it goes low, it would contribute to **conscientiousness** and responsibility.
 
-1. **Narcissism**
-2. **Conscientiousness**
-
-Anxiety, depression, obsession and compulsion might be originating from one of these instincts,
-and it's a mistake to classify every of anxiety in one diagnosis,
-let alone anxiety was never a sickness to be diagnosed.
-
-### Narcissism, the Merchant's instinct
+### Narcissism
 
 People may regard narcissism as a personality trait.
 Psychologists may regard it as a personality disorder.
 Researches show that narcissism tends to be a genotype rather than merely a result of one's environment.
-What it actually is, in my opinion, is a subtle social instinct that makes one a great merchant;
-so I call it **the Merchant's instinct**!
+What it actually is, in my opinion, is a subtle social instinct that makes one a great merchant!
 
 In order to be good merchant, what do you need?
 
@@ -170,7 +165,7 @@ If narcissism is measured accurately in people using sci-fi brain scan devices,
 I think Arabs, Europeans and Persians would score the highest on that scale and the reason for that is
 because they have long been merchants for millennia.
 
-### Conscientiousness, the Soldier's instinct
+### Conscientiousness
 
 Without conscientiousness, there would be no military!
 In the military, there is always a person of higher rank and another with lower rank, this is rooted in our instinct.
@@ -179,26 +174,3 @@ This instinct is two-sided unlike narcissism which places the person at the cent
 If conscientiousness is measured accurately in people using sci-fi brain scan devices,
 I think East Asian people would score the highest on that scale and the reason for that is
 because they've been soldiers for long.
-
-### Scale of Instincts in Neuroses
-
-Despite what psychologists label as *obsessive-compulsive disorder* can be caused by either narcissism or
-conscientiousness, what they call *obsessive-compulsive "personality" disorder* and 2 more of cluster C personality
-disorders (DSM-V) occur when this instinct is too strong in a person. Cluster B personalities are rooted in narcissism.
-A person's self-image also is a factor determining whether a person is a soldier or a commander, a king or a commoner.
-
-| DSM-V diagnosis                   | Tribality | Dissociality | Inhibition |   Confidence    |
-|-----------------------------------|:---------:|:------------:|:----------:|:---------------:|
-| Obsessive-compulsive behaviour    |   high    |      ?       |     ?      |       low       |
-| Obsessive-compulsive personality  |   high    |     low      |    high    |      high       |
-| Narcissistic personality (overt)  |   high    |     high     |    low     | high(masculine) |
-| Histrionic personality            |   high    |     high     |    low     | high(feminine)  |
-| Narcissistic personality (covert) |   high    |     high     |   normal   |     normal      |
-| Avoidant personality              |   high    |     high     |    high    |       low       |
-| Dependent personality             |   high    |    normal    |    high    |       low       |
-| Borderline personality            |   high    |     high     |    low     |       low       |
-| Attention-deficit / hyperactivity |   high    |     high     |    low     |      high       |
-| Social anxiety                    |   high    |     high     |    high    |   normal/low    |
-| Asperger's syndrome (or ASD-1)    |     ?     |     low      |    high    |        ?        |
-| Anti-social personality           |    low    |     low      |    low     |      high       |
-| Schizoid personality              |    low    |     low      |    high    |       low       |
