@@ -11,7 +11,7 @@ This system revolves around **self-esteem** which gives reality to these subject
 - Morality
 - Purpose of Life & Desire for Continuum
 
-## Thought Camouflage
+### Thought Camouflage
 
 This instinct provides camouflage for itself;
 it instills its ambitions onto consciousness using reasons that seem more logical,
@@ -25,7 +25,7 @@ them, they stop worrying about the matters that their superego used as covers fo
 
 That's why this camouflage of self-esteem is created for survival of human groups rather than individual survival!
 
-## Creator of Higher Values
+### Creator of Higher Values
 
 This instinct insists that its obligations are objective realities rather than its own illusions.
 As I mentioned, it is designed precisely for survival of human groups and these groups needed some illusions to survive:
@@ -61,12 +61,12 @@ You can see religions are almost exclusively obsessed about the phenomena I ment
 Maintaining a realistic philosophy is exceptionally hard for a human being.
 That's why numerous philosophers have been deceived by their instinct.
 
-## The Engine behind Identity
+### The Engine behind Identity
 
 Identity itself is a camouflage of self-esteem!
 Without a group and its survival, identity is meaningless, as well as purpose of life!
 
-## The Engine behind Neurosis
+### The Engine behind Neurosis
 
 The tribal instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death or
 even more important than that! Although it wouldn't be false if we consider the survival of a tribe rather than the
@@ -82,7 +82,7 @@ Note that selfless people are different from *Highly Sensitive Person*s (HSP) an
 definition as their amygdalas are hyperactive, and it could be for any reason.
 Nonetheless, these conditions often co-occur.
 
-## Should we physiologically remove this instinct?
+### Should we physiologically remove this instinct?
 
 Despite this instinct has been necessary for the survival of human groups in prehistory, self-esteem is not always
 necessary for survival of people especially in the modern era.
@@ -100,7 +100,7 @@ They wouldn't become competitive, jealous or Machiavellian either.
 Although they might feel stress in actual scenarios of life-or-death.
 But most of us would not want to go through so much change, do we?
 
-## Treatment of Social Psychological Pains
+### Treatment of Social Psychological Pains
 
 Self-esteem operates based on ownership and classes and hierarchies;
 if an adult suffers from neurosis because of their self-esteem, a hard but hugely relieving way would be to disbelieve
@@ -116,4 +116,85 @@ automatically fall.
 
 Now there are times when things get more complicated:
 when a social danger co-occurs with an actual danger targeted at self!
-In this scenario a selfless brain amplifies and exaggerates the actual danger multiple times, and it's quite frustrating!
+In this scenario a selfless brain amplifies and exaggerates the actual danger multiple times, and it's quite
+frustrating!
+
+---
+
+## Operating Systems
+
+The Tribal Instinct has developed two, often coexisting, operating systems for survival:
+
+1. **Narcissism**
+2. **Conscientiousness**
+
+Anxiety, depression, obsession and compulsion might be originating from one of these instincts,
+and it's a mistake to classify every of anxiety in one diagnosis,
+let alone anxiety was never a sickness to be diagnosed.
+
+### Narcissism, the Merchant's instinct
+
+People may regard narcissism as a personality trait.
+Psychologists may regard it as a personality disorder.
+Researches show that narcissism tends to be a genotype rather than merely a result of one's environment.
+What it actually is, in my opinion, is a subtle social instinct that makes one a great merchant;
+so I call it **the Merchant's instinct**!
+
+In order to be good merchant, what do you need?
+
+- Professional ability to deceive
+- Grandiose sense of self-importance
+- Lack of empathy, so you can compete with rivals
+
+Narcissistic traits are an all-in-one package that make you a great competitor.
+Many people are bad liars because they don't believe their own lies.
+In order to be a good liar, you need to **first deceive yourself**!!
+
+This is the beauty of evolution that the limited minds of clinicians fails to grasp,
+and instead they label it as a personality disorder.
+Nature evolved some humans to be able to deceive themselves so they can compete better.
+Narcissists often use *projection* to subconsciously hide their deficits, sell their goods and make a fortune.
+
+If you look more closely, richest people in the world are all narcissists.
+Great politicians and bestest actors are all narcissists.
+
+They are great deceivers; they can strongly activate people's defence mechanisms.
+They play you with their kindness-of-heart sentences and apocalyptic threats,
+albeit they are often a lot less dangerous than they sound!
+
+They regard Narcissism and Machiavellianism as distinct, but I think they both equally exist in people.
+You're as narcissistic as you are a Machiavellian.
+It's the same system although some Merchants may show the former more strongly and some the latter.
+
+If narcissism is measured accurately in people using sci-fi brain scan devices,
+I think Arabs, Europeans and Persians would score the highest on that scale and the reason for that is
+because they have long been merchants for millennia.
+
+### Conscientiousness, the Soldier's instinct
+
+Without conscientiousness, there would be no military!
+In the military, there is always a person of higher rank and another with lower rank, this is rooted in our instinct.
+This instinct is two-sided unlike narcissism which places the person at the centre of their universe.
+
+If conscientiousness is measured accurately in people using sci-fi brain scan devices,
+I think East Asian people would score the highest on that scale and the reason for that is
+because they've been soldiers for long.
+
+### Scale of Instincts in Neuroses
+
+Despite what psychologists label as *obsessive-compulsive disorder* can be caused by either narcissism or
+conscientiousness, what they call *obsessive-compulsive "personality" disorder* and 2 more of cluster C personality
+disorders (DSM-V) occur when this instinct is too strong in a person. Cluster B personalities are rooted in narcissism.
+A person's self-image also is a factor determining whether a person is a soldier or a commander, a king or a commoner.
+
+| DSM-V diagnosis                   | Conscientiousness | Narcissism | Self-image |
+|-----------------------------------|:-----------------:|:----------:|:----------:|
+| Obsessive-compulsive behaviours   |     any of 2      |  any of 2  |    low     |
+| Obsessive-compulsive personality  |       high        |    low     |    high    |
+| Dependent personality             |       high        |    low     |    low     |
+| Narcissist personality            |      normal       |    high    |    high    |
+| Histrionic personality            |        low        |    high    |    high    |
+| Avoidant personality              |       high        |    high    |    low     |
+| Social anxiety                    |      normal       |    high    |    low     |
+| Asperger's syndrome (or ASD-1)    |       high        |    low     |     ?      |
+| Attention-deficit / hyperactivity |        low        |    high    |     ?      |
