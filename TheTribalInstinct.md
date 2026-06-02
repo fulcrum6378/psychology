@@ -186,19 +186,19 @@ Despite what psychologists label as *obsessive-compulsive disorder* can be cause
 conscientiousness, what they call *obsessive-compulsive "personality" disorder* and 2 more of cluster C personality
 disorders (DSM-V) occur when this instinct is too strong in a person. Cluster B personalities are rooted in narcissism.
 A person's self-image also is a factor determining whether a person is a soldier or a commander, a king or a commoner.
-Paranoid personality is omitted.
 
-| DSM-V diagnosis                   | Conscientiousness | Narcissism | Self-image |
+| DSM-V diagnosis                   | Conscientiousness | Narcissism | Confidence |
 |-----------------------------------|:-----------------:|:----------:|:----------:|
-| Obsessive-compulsive behaviour    |     any of 2      |  any of 2  |    low     |
-| Obsessive-compulsive personality  |       high        |    low     |    high    |
-| Dependent personality             |       high        |    low     |    low     |
-| Narcissist personality            |      normal       |    high    |    high    |
-| Histrionic personality            |        low        |    high    |    high    |
-| Borderline personality            |       high        |    high    |    high    |
-| Avoidant personality              |       high        |    high    |    low     |
-| Social anxiety                    |      normal       |    high    |    low     |
+| Obsessive-compulsive behaviour    |     any of 2      |  any of 2  | normal/low |
+| Obsessive-compulsive personality  |       high        |   normal   |    high    |
+| Narcissistic personality (overt)  |    normal/high    |    high    |    high    |
+| Narcissistic personality (covert) |    normal/high    |    high    |   normal   |
+| Avoidant personality              |    normal/high    |    high    |    low     |
+| Dependent personality             |        low        |   normal   |    low     |
+| Histrionic personality            |        low        |    high    |   normal   |
+| Borderline personality            |        low        |    high    |    low     |
+| Attention-deficit / hyperactivity |        low        |    high    |    high    |
+| Social anxiety                    |         ?         |    high    | normal/low |
 | Asperger's syndrome (or ASD-1)    |       high        |    low     |     ?      |
-| Attention-deficit / hyperactivity |        low        |    high    |     ?      |
 | Anti-social personality           |        low        |    low     |    high    |
 | Schizoid personality              |        low        |    low     |    low     |
