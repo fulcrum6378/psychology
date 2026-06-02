@@ -74,7 +74,7 @@ survival of a single individual.
 
 Now people are different in the strength of their tribal instinct; about one third of general population might meet the
 criteria for social neuroses in their lifetimes and a smaller percentage of them meet the criteria of the personality
-disorders I mentioned in [DefenceSocial.yml](DefenceSocial.yml), and they can be called **Selfless people** as well,
+disorders, and they can be called **Selfless people** as well,
 despite actually it is merely their self-esteem that is more at stake, but we call them selfless here in the way of
 evolutionary psychology.
 
@@ -186,15 +186,19 @@ Despite what psychologists label as *obsessive-compulsive disorder* can be cause
 conscientiousness, what they call *obsessive-compulsive "personality" disorder* and 2 more of cluster C personality
 disorders (DSM-V) occur when this instinct is too strong in a person. Cluster B personalities are rooted in narcissism.
 A person's self-image also is a factor determining whether a person is a soldier or a commander, a king or a commoner.
+Paranoid personality is omitted.
 
 | DSM-V diagnosis                   | Conscientiousness | Narcissism | Self-image |
 |-----------------------------------|:-----------------:|:----------:|:----------:|
-| Obsessive-compulsive behaviours   |     any of 2      |  any of 2  |    low     |
+| Obsessive-compulsive behaviour    |     any of 2      |  any of 2  |    low     |
 | Obsessive-compulsive personality  |       high        |    low     |    high    |
 | Dependent personality             |       high        |    low     |    low     |
 | Narcissist personality            |      normal       |    high    |    high    |
 | Histrionic personality            |        low        |    high    |    high    |
+| Borderline personality            |       high        |    high    |    high    |
 | Avoidant personality              |       high        |    high    |    low     |
 | Social anxiety                    |      normal       |    high    |    low     |
 | Asperger's syndrome (or ASD-1)    |       high        |    low     |     ?      |
 | Attention-deficit / hyperactivity |        low        |    high    |     ?      |
+| Anti-social personality           |        low        |    low     |    high    |
+| Schizoid personality              |        low        |    low     |    low     |
