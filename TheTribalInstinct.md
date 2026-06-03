@@ -9,11 +9,11 @@ This system revolves around **self-esteem** which gives reality to these subject
 - Ownership
 - Relationships & Attachments
 - Morality
-- Purpose of Life & Desire for Continuum
+- Purpose of Life & Desire for Reproduction
 
 ### Thought Camouflage
 
-This instinct provides camouflage for itself;
+This instinct creates a camouflage for itself in the mind;
 it instills its ambitions onto consciousness using reasons that seem more logical,
 hiding its actual intent which is none other than self-esteem!
 This makes people be strongly apt to follow those decisions as if it's their own life-or-death matter,
@@ -21,7 +21,7 @@ but it's actually a matter of self-esteem despite they are unaware of it!
 
 Now why would a camouflage be necessary?
 Because animals have evolved in a selfish way and as soon as a human finds out about how their instinct is deceiving
-them, they stop worrying about the matters that their superego used as covers for its own game.
+them, they will stop worrying about matters that their unconscious used as covers for its own game.
 
 That's why this camouflage of self-esteem is created for survival of human groups rather than individual survival!
 
@@ -66,23 +66,16 @@ That's why numerous philosophers have been deceived by their instinct.
 Identity itself is a camouflage of self-esteem!
 Without a group and its survival, identity is meaningless, as well as purpose of life!
 
-### The Engine behind Neurosis
+### The Engine behind Psychological Pain
 
-The tribal instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death or
+The Tribal Instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death or
 even more important than that! Although it wouldn't be false if we consider the survival of a tribe rather than the
 survival of a single individual.
 
-Now people are different in the strength of their tribal instinct; about one third of general population might meet the
-criteria for social neuroses in their lifetimes and a smaller percentage of them meet the criteria of the personality
-disorders, and they can be called **Selfless people** as well,
-despite actually it is merely their self-esteem that is more at stake, but we call them selfless here in the way of
-evolutionary psychology.
+With self-esteem at stake, humans develop expectations that can lead them to extreme disacceptance scenarios.
+Disacceptance is the key to psychological pain while acceptance is the key to happiness.
 
-Note that selfless people are different from *Highly Sensitive Person*s (HSP) and *Sensory Motor Sensitivity* in
-definition as their amygdalas are hyperactive, and it could be for any reason.
-Nonetheless, these conditions often co-occur.
-
-### Should we physiologically remove this instinct?
+### What if we remove this instinct?
 
 Despite this instinct has been necessary for the survival of human groups in prehistory, self-esteem is not always
 necessary for survival of people especially in the modern era.
@@ -98,28 +91,27 @@ If it is removed from the brain of a child via genetic engineering, that child m
 It would be impossible for them to get angry, feel sadness, depression or major anxiety!
 They wouldn't become competitive, jealous or Machiavellian either.
 Although they might feel stress in actual scenarios of life-or-death.
-But most of us would not want to go through so much change, do we?
 
-### Treatment of Social Psychological Pains
+### How to stop psychological pain?
 
-Self-esteem operates based on ownership and classes and hierarchies;
+Self-esteem operates based on ownership, classes and hierarchies;
 if an adult suffers from neurosis because of their self-esteem, a hard but hugely relieving way would be to disbelieve
 in the beliefs they have which involve determining worth of themselves or that of others.
 
 A person might believe if I do X I am worthy of applause or if I do Y, I am worthy of punishment.
 As if those who do X are worthier, in higher class than those who do Y!
-The instinct of self-esteem is sensitive to this kind of thinking, and it will certainly intrude in their process of
-thinking with emotions!
+The Tribal Instinct is sensitive to this kind of thinking, and it will certainly intrude in their process of thinking
+with a bunch of diabolical emotions!
 
 If the person revises these kinds of axiological beliefs and become indifferent to them, their defence mechanisms will
 automatically fall.
+I call this method the **Desocialisation of Superego**.
 
 Now there are times when things get more complicated:
-when a social danger co-occurs with an actual danger targeted at self!
-In this scenario a selfless brain amplifies and exaggerates the actual danger multiple times, and it's quite
-frustrating!
-
----
+when a social danger co-occurs with an actual danger targeted against self.
+In this scenario and sensitive brain amplifies and exaggerates the actual danger multiple times,
+and it's quite frustrating!
+You would need to carefully isolate the small actual danger from the danger against self-esteem.
 
 ## Dissociality
 
