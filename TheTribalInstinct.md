@@ -1,6 +1,6 @@
 # The Tribal Instinct Theory
 
-## Premise
+### Premise
 
 The human brain has developed a system of integrated instincts to become a sociable animal.
 This system revolves around **self-esteem** which gives reality to these subjective phenomena:
@@ -32,9 +32,9 @@ As I mentioned, it is designed precisely for survival of human groups and these 
 
 #### 1. Morality inside the group
 
-Humans needed trust, peace and empathy amongst their own group, so some illusory rewards and punishments were needed for
-that matter. A selfish animal fears death but with this instinct, an animal can become selfless and sacrifice oneself
-for what's **worth fighting for**!
+Humans needed trust, peace and empathy amongst their own group, so some illusory rewards and punishments were needed
+for that matter. A selfish animal fears death but with this instinct, an animal can become selfless and sacrifice
+oneself for what's **worth fighting for**!
 
 #### 2. Animosity against other groups
 
@@ -66,14 +66,14 @@ That's why numerous philosophers have been deceived by their instinct.
 Identity itself is a camouflage of self-esteem!
 Without a group and its survival, identity is meaningless, as well as purpose of life!
 
-### The Engine behind Psychological Pain
+### The Engine behind Mental Suffering
 
-The Tribal Instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death or
-even more important than that! Although it wouldn't be false if we consider the survival of a tribe rather than the
+The Tribal Instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death
+or even more important than that! Although it wouldn't be false if we consider the survival of a tribe rather than the
 survival of a single individual.
 
 With self-esteem at stake, humans develop expectations that can lead them to extreme disacceptance scenarios.
-Disacceptance is the key to psychological pain while acceptance is the key to happiness.
+Disacceptance is the key to mental suffering while acceptance is the key to happiness.
 
 ### What if we remove this instinct?
 
@@ -92,7 +92,7 @@ It would be impossible for them to get angry, feel sadness, depression or major 
 They wouldn't become competitive, jealous or Machiavellian either.
 Although they might feel stress in actual scenarios of life-or-death.
 
-### How to stop psychological pain?
+### How to end mental suffering?
 
 Self-esteem operates based on ownership, classes and hierarchies;
 if an adult suffers from neurosis because of their self-esteem, a hard but hugely relieving way would be to disbelieve
@@ -113,56 +113,73 @@ In this scenario and sensitive brain amplifies and exaggerates the actual danger
 and it's quite frustrating!
 You would need to carefully isolate the small actual danger from the danger against self-esteem.
 
-## Dissociality
+### Sociality and Dissociality
 
-The Tribal Instinct has a dimension that indicates whether the person is more or less important than others,
-and its scale will be determined in childhood.
-If it goes high, it would result in selfishness, **narcissism** (masculine), **histrionicism** (feminine)
-and **Machiavellianism**. If it goes low, it would contribute to **conscientiousness** and responsibility.
+The Tribal Instinct has a dimension that indicates one's importance in their group, and it is determined in one's
+childhood. If a child is raised with high importance, it would result in selfishness, **narcissism** (masculine),
+**histrionicism** (feminine) and **Machiavellianism**. If the child is raised with expectations on him/her,
+it would contribute to **conscientiousness** and high responsibility.
 
-### Narcissism
+Now if the child is raised to be a selfish person, he/she would become competitive and manipulative.
+This child can become so deceitful, it can deceive oneself!
+Nature tends to make selfish people fool themselves, because if you don't believe in your own lie,
+you wouldn't be persuasive enough!
 
-People may regard narcissism as a personality trait.
-Psychologists may regard it as a personality disorder.
-Researches show that narcissism tends to be a genotype rather than merely a result of one's environment.
-What it actually is, in my opinion, is a subtle social instinct that makes one a great merchant!
+Then, if a child is raised to be selfless, he/she would possess the traits of perseverance, submission, honesty and
+contextually moral cruelty.
 
-In order to be good merchant, what do you need?
+### Why does psychotherapy exist?
 
-- Professional ability to deceive
-- Grandiose sense of self-importance
-- Lack of empathy, so you can compete with rivals
+People with overactive Tribal Instinct are naturally talkative. They're more social than other individual and
+by "social" I mean that social phenomena are big deals to them. Of course many of them can become socially isolated.
+They're more sensitive to other people and expectations and moral standards.
 
-Narcissistic traits are an all-in-one package that make you a great competitor.
-Many people are bad liars because they don't believe their own lies.
-In order to be a good liar, you need to **first deceive yourself**!!
+Now these people really need to talk. They spam their words and emotions everywhere, talking to people, writing books,
+poems, articles, social media, websites, blogs, social gatherings, etc. Their ambitions are relieved by talking, but it
+will never stop. They cannot stop talking!!
 
-This is the beauty of evolution that the limited minds of clinicians fails to grasp,
-and instead they label it as a personality disorder.
-Nature evolved some humans to be able to deceive themselves so they can compete better.
-Narcissists often use *projection* to subconsciously hide their deficits, sell their goods and make a fortune.
+These people would get addicted to psychotherapy and filling pockets of therapists. Therapy was created for these
+people. It's like I pay you to listen to me without judgement. Because they are so sensitive to judgements.
+And the sour reality is that psychotherapy will never actually fix their problem, it will only addict them.
+They don't know even what their problem is! Therapists don't understand it either!
 
-If you look more closely, richest people in the world are all narcissists.
-Great politicians and bestest actors are all narcissists.
+### How to make a fortune from the Tribal Instinct?
 
-They are great deceivers; they can strongly activate people's defence mechanisms.
-They play you with their kindness-of-heart sentences and apocalyptic threats,
-albeit they are often a lot less dangerous than they sound!
+The modern psychology is a nice business; they label your mental suffering as "disorders" so that you feel a need to
+"treat" a disorder that never existed! And they can't even fix the root of your problems. They just try to make minor
+changes to how you think to decrease your suffering by less than 1%. And they tempt your Tribal Instinct to talking
+in a safe zone, and you get addicted to it. So you, with a cute smile, pay them fat loads of money which might create
+more monetary problems and mental suffering for you that outweigh that 1% decrease.
 
-They regard Narcissism and Machiavellianism as distinct, but I think they both equally exist in people.
-You're as narcissistic as you are a Machiavellian.
-It's the same system although some Merchants may show the former more strongly and some the latter.
+I don't really know why they call mental suffering as "disorders"!
+They argue that these conditions cause significant distress, but I see no "distress" in the etymology of "disorder"!
+It is an ancient kind of naming that resembles how children or ancient people labelled each other;
+"you're weird, so you're crazy!" It doesn't sound scientific at all!
 
-If narcissism is measured accurately in people using sci-fi brain scan devices,
-I think Arabs, Europeans and Persians would score the highest on that scale and the reason for that is
-because they have long been merchants for millennia.
+Obsession and narcissism can cause distress at any rate, but as soon as it gets weird, you GOT a disorder badge!
+Well it was the same phenomenon, but when it crosses a statistically-normal line, it becomes something else?
+It doesn't sound like science, it sounds more like a law imposing limits, or a religion!!
+A notorious problem in all religions is that you don't precisely know how much of a bad thing is bad!
+Science doesn't discuss if you're taller than either 180cm or 190cm, you are labelled as a "tall" person!
 
-### Conscientiousness
+Now if you accept that you're really weird, you have a disorder and if you don't accept your weirdness, you'll get an
+extra punishment called a "personality disorder"! Despite other conditions can be long-term as well like social anxiety,
+but only because the person doesn't accept his weirdness, they call it a personality disorder. How scientific is that?!
+I guess these labels are rooted in defence mechanisms inside the minds of the modern psychologists.
+"I don't like your ugly attitude, but you don't accept, but you're not psychotic either...
+so I invent a new term to defeat you: personality disorder!"
+If you don't like someone's ugly attitude, why do you label him as disordered and claim it as science?!
+Psychologists used to label members of LGBT+ groups as disordered as well! Did it cause significant distress?
+To you or to them?
 
-Without conscientiousness, there would be no military!
-In the military, there is always a person of higher rank and another with lower rank, this is rooted in our instinct.
-This instinct is two-sided unlike narcissism which places the person at the centre of their universe.
+Nature evolved different people for different roles in societies that some of them needed extreme levels of some
+personality traits. Only a person that they "diagnose" with Narcissistic Personality Disorder can become a successful
+politician or merchant. Politics requires narcissism and the higher it gets, the more successful that politician
+becomes, just as how a merchant is expected to be manipulative.
 
-If conscientiousness is measured accurately in people using sci-fi brain scan devices,
-I think East Asian people would score the highest on that scale and the reason for that is
-because they've been soldiers for long.
+A true commander needs to have a so-called "Obsessive-Compulsive Personality Disorder" to bring order to an army
+and save a government. You cannot expect a commander to be romantic! Mother Nature knew who she gave birth to.
+They're like white blood cells which are harsh. It's like a white blood cell has dysfunction in his romantic
+relationships and gets visited by a therapist and gets diagnosed with OCPD! A white blood cell cannot be romantic.
+Its nature prohibits it! But unfortunately their limited clinical minds cannot grasp the beauty of evolution...
+That's why I chose to regard the modern psychology as a pseudoscience.
