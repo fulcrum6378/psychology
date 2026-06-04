@@ -120,13 +120,16 @@ childhood. If a child is raised with high importance, it would result in selfish
 **histrionicism** (feminine) and **Machiavellianism**. If the child is raised with expectations on him/her,
 it would contribute to **conscientiousness** and high responsibility.
 
-Now if the child is raised to be a selfish person, he/she would become competitive and manipulative.
-This child can become so deceitful, it can deceive oneself!
+Now if the child is raised to be a selfish person, he/she would expect other to care about him/her.
+This child would become competitive and manipulative and can become so deceitful, it can deceive oneself!
 Nature tends to make selfish people fool themselves, because if you don't believe in your own lie,
 you wouldn't be persuasive enough!
 
-Then, if a child is raised to be selfless, he/she would possess the traits of perseverance, submission, honesty and
-contextually moral cruelty.
+Then, if a child is raised to be selfless, he/she would expect oneself to care about others
+and would possess the traits of perseverance, submission, honesty and contextually moral cruelty.
+
+People in Eastern Asia seem to have developed more sociality as they're quite sacrificial,
+while people in Western Asia and all Europeans on average seem to be high on dissociality and pride.
 
 ### Why does psychotherapy exist?
 
