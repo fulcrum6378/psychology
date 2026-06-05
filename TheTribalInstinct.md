@@ -61,7 +61,37 @@ You can see religions are almost exclusively obsessed about the phenomena I ment
 Maintaining a realistic philosophy is exceptionally hard for a human being.
 That's why numerous philosophers have been deceived by their instinct.
 
-## To be Selfish or Selfless?
+## Scope
+
+The Tribal instinct obsesses about different subjects in different people.
+A person's unconscious can obsess about one or multiple scopes.
+
+- **Respect** (identity): This is the most obsessed scope of the Tribal instinct in human beings and dogs,
+  and it contributes to **narcissism**. Humans are overall narcissistic creatures.
+  This scope is intended for **animosity against other groups** and competition;
+  therefore narcissists are inclined towards *nationalism*, *patriotism*, *xenophobia* and *racism*.
+  Narcissists make powerful politicians and soldiers.
+  Narcissists have a hard time accepting their bad attributes; that's why they excessively use
+  different defence mechanisms like *projection* (attributing one's bad attributes to others) and *repression*
+  to escape the reality.
+  Their unstable behaviours prevents them from becoming great leaders.
+
+- **Power** (ownership): It contributes to **Machiavellianism** and calculated abusive behaviours.
+  People with this obsession love you as wealthy or powerful as you are.
+  They are maniacally obsessed with ownership, so much that they often forget how to enjoy their power.
+  They are addicted to and enjoy power itself not its fruits.
+  Machiavellians made great emperors and wealthy merchants.
+  They prefer unknown areas of democratic governments while narcissists prefer public areas and showing off.
+
+- **Attention** (attachments): It contributes to **histrionicism**.
+  This kind of obsession is more frequent in women.
+  Histrionicism is evolved as a result of sexual selection.
+  Histrions make good actors and models as well.
+
+- **Order** (perfectionism): It contributes to an **obsessive-compulsive personality**.
+  These people make great managers and officers who bring order to the world.
+
+- **Morality**:
 
 The Tribal instinct has a dimension that indicates one's importance in their group, and it is determined in one's
 early childhood. The child's unconscious learns if he/she MUST be taken care of (dissociality)
