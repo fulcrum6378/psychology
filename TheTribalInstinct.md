@@ -6,10 +6,11 @@ The human brain has developed a system of integrated instincts to become a socia
 This system revolves around **self-worth** which gives reality to these subjective phenomena:
 
 - Identity
+- Morality
 - Ownership
 - Relationships & Attachments
-- Morality
 - Purpose of Life & Desire for Reproduction
+- Responsibility
 
 ### Thought Camouflage
 
@@ -25,22 +26,70 @@ them, they will stop worrying about matters that their unconscious used as cover
 
 That's why this camouflage of self-worth is created for survival of human groups rather than individual survival!
 
-### Creator of Higher Values
+## Scopes
 
-This instinct insists that its obligations are objective realities rather than its own illusions.
-As I mentioned, it is designed precisely for survival of human groups and these groups needed some illusions to survive:
+This Tribal instinct insists that its obligations are objective realities rather than its own illusions.
+As I mentioned, it is designed precisely for survival of human groups and these groups needed to obsess on
+these illusions to survive: (a person's unconscious can obsess about one or multiple scopes)
 
-#### 1. Morality inside the group
+#### 1. Friendship & Animosity
 
-Humans needed trust, peace and empathy amongst their own group, so some illusory rewards and punishments were needed
-for that matter. A selfish animal fears death but with this instinct, an animal can become selfless and sacrifice
-oneself for what's **worth fighting for**!
+Animals needed trust amongst their own group and also needed to fight aggressors.
+The Tribal instinct developed an illusion of **identity** in humans and obsessed about it.
+This is the most obsessed scope of the Tribal instinct in human beings, dogs and other mammals,
+and it contributes to pride and **narcissism**.
+Humans are overall narcissistic creatures, some of them being more narcissistic than their average.
 
-#### 2. Animosity against other groups
+The Tribal instinct with this scope of obsession tries to identify one's "group", love it, love its members and
+despise all other groups no matter how innocent they are!
+As a result it contributes to the ambitions of **nationalism**, **patriotism**, **xenophobia** and **racism**,
+and these ambitions are frequently seen in narcissists. Patriots are often racists because they're all narcissists.
+As a result, narcissists make powerful politicians and soldiers.
+Nonetheless, their unstable behaviours prevent them from becoming wise leaders.
 
-Humans needed to fight aggressors and compete with other groups.
-This instinct is directly responsible for creating the ambitions **nationalism**, **patriotism**, **xenophobia**
-and **racism**. As we see patriots are often racists as well.
+Narcissists have a hard time accepting their bad attributes and accepting good attributes in their enemies;
+that's why they excessively use different defence mechanisms like *projection*
+(attributing one's bad attributes to others) and *repression* to escape reality.
+Despite narcissists might seem so selfish, they can be quite selfless paradoxically!
+This is because their selflessness serves their self-worth and no human actually cares about morality at all!
+
+Humans couldn't survive with their initial animalistic selfishness;
+a selfish animal fears death but with this obsession, an animal can become selfless and sacrifice
+oneself for what's **worth fighting for** and for the greater good!
+As a result, an illusion of **morality** was developed.
+
+#### 2. Competition
+
+Humans, individually or in groups, needed to compete with one another on possessions in order to be sexually selected
+and ultimately in order to survive.
+A sense of **jealousy** and an illusion of **ownership** were developed in humans and birds as well for this matter.
+Relationships and attention are regarded as rather possessions than anything else by human instincts!
+Despite these two kinds of competition their behaviours can look differently.
+
+- **Machiavellianism** (competition over power, more frequent in men):
+  It leads to calculated abusive behaviours.
+  People with this obsession love you as useful as you are.
+  They are maniacally obsessed with ownership, so much that they often forget how to enjoy their power.
+  They are addicted to and enjoy power itself not its outcomes.
+  Machiavellians made great emperors and wealthy merchants.
+  They prefer unknown areas of democratic governments while narcissists prefer public areas and showing off.
+
+- **Histrionicism** (competition over attention, more frequent in women):
+  It leads to calculated submissive behaviours.
+  Histrions make good actors and models.
+
+Both of these people prefer sexual relationships with multiple people rather than limited numbers.
+
+#### 3. Control
+
+Humans cannot live in anarchist societies because what actually made them social requires a leader in the first place!
+One or some of them become leaders and others blindly follow their orders. This is pure human nature!
+The Tribal inctinct in its scope of responsibility is inclined to blame something at someone at some point
+and illogically ignore randomness, excuses and impossibilities!!
+This illusion of **control** was necessary for both leaders and followers to survive.
+
+
+#### 3. The Ultimate Need for a Leader
 
 #### 3. Uniformity of the group
 
@@ -49,49 +98,11 @@ you! The same illusory rewards and punishments of morality is applied to this ma
 
 #### 4. The Ultimate Need for a Leader
 
-Humans cannot live in anarchist societies because what actually made them social requires a leader in the first place!
-One or some of them become leaders and others blindly follow their orders. This is pure human nature!
 
-### Creator of all Religions
 
-Religion is the all-in-one package of the Tribal instinct;
-it's literally sent to humans from their Mother Nature to survive.
-You can see religions are almost exclusively obsessed about the phenomena I mentioned that this instinct creates.
-
-Maintaining a realistic philosophy is exceptionally hard for a human being.
-That's why numerous philosophers have been deceived by their instinct.
-
-## Scope
-
-The Tribal instinct obsesses about different subjects in different people.
-A person's unconscious can obsess about one or multiple scopes.
-
-- **Respect** (identity): This is the most obsessed scope of the Tribal instinct in human beings and dogs,
-  and it contributes to **narcissism**. Humans are overall narcissistic creatures.
-  This scope is intended for **animosity against other groups** and competition;
-  therefore narcissists are inclined towards *nationalism*, *patriotism*, *xenophobia* and *racism*.
-  Narcissists make powerful politicians and soldiers.
-  Narcissists have a hard time accepting their bad attributes; that's why they excessively use
-  different defence mechanisms like *projection* (attributing one's bad attributes to others) and *repression*
-  to escape the reality.
-  Their unstable behaviours prevents them from becoming great leaders.
-
-- **Power** (ownership): It contributes to **Machiavellianism** and calculated abusive behaviours.
-  People with this obsession love you as wealthy or powerful as you are.
-  They are maniacally obsessed with ownership, so much that they often forget how to enjoy their power.
-  They are addicted to and enjoy power itself not its fruits.
-  Machiavellians made great emperors and wealthy merchants.
-  They prefer unknown areas of democratic governments while narcissists prefer public areas and showing off.
-
-- **Attention** (attachments): It contributes to **histrionicism**.
-  This kind of obsession is more frequent in women.
-  Histrionicism is evolved as a result of sexual selection.
-  Histrions make good actors and models as well.
 
 - **Order** (perfectionism): It contributes to an **obsessive-compulsive personality**.
   These people make great managers and officers who bring order to the world.
-
-- **Morality**:
 
 The Tribal instinct has a dimension that indicates one's importance in their group, and it is determined in one's
 early childhood. The child's unconscious learns if he/she MUST be taken care of (dissociality)
@@ -128,6 +139,15 @@ Selfish cultures create pride-based religions and worship-based ideologies, like
 In these religions, your worth is determined by your identity and direction, not your actions.
 Selfless cultures tend to create ascetic and action-based religions where your hard work increases your worth!
 This is how different cultures create their religions based on the ambitions of their unconscious minds.
+
+### Creator of all Religions
+
+Religion is the all-in-one package of the Tribal instinct;
+it's literally sent to humans from their Mother Nature to survive.
+You can see religions are almost exclusively obsessed about the phenomena I mentioned that this instinct creates.
+
+Maintaining a realistic philosophy is exceptionally hard for a human being.
+That's why numerous philosophers have been deceived by their instinct.
 
 ## The Engine behind Mental Suffering
 
