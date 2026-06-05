@@ -1,9 +1,9 @@
 # The Tribal Instinct Theory
 
-### Premise
+## Premise
 
 The human brain has developed a system of integrated instincts to become a sociable animal.
-This system revolves around **self-esteem** which gives reality to these subjective phenomena:
+This system revolves around **self-worth** which gives reality to these subjective phenomena:
 
 - Identity
 - Ownership
@@ -15,15 +15,15 @@ This system revolves around **self-esteem** which gives reality to these subject
 
 This instinct creates a camouflage for itself in the mind;
 it instills its ambitions onto consciousness using reasons that seem more logical,
-hiding its actual intent which is none other than self-esteem!
+hiding its actual intent which is none other than self-worth!
 This makes people be strongly apt to follow those decisions as if it's their own life-or-death matter,
-but it's actually a matter of self-esteem despite they are unaware of it!
+but it's actually a matter of self-worth despite they are unaware of it!
 
 Now why would a camouflage be necessary?
 Because animals have evolved in a selfish way and as soon as a human finds out about how their instinct is deceiving
 them, they will stop worrying about matters that their unconscious used as covers for its own game.
 
-That's why this camouflage of self-esteem is created for survival of human groups rather than individual survival!
+That's why this camouflage of self-worth is created for survival of human groups rather than individual survival!
 
 ### Creator of Higher Values
 
@@ -54,35 +54,68 @@ One or some of them become leaders and others blindly follow their orders. This 
 
 ### Creator of all Religions
 
-Religion is the all-in-one package of the Tribal Instinct;
+Religion is the all-in-one package of the Tribal instinct;
 it's literally sent to humans from their Mother Nature to survive.
 You can see religions are almost exclusively obsessed about the phenomena I mentioned that this instinct creates.
 
 Maintaining a realistic philosophy is exceptionally hard for a human being.
 That's why numerous philosophers have been deceived by their instinct.
 
-### The Engine behind Identity
+## To be Selfish or Selfless?
 
-Identity itself is a camouflage of self-esteem!
+The Tribal instinct has a dimension that indicates one's importance in their group, and it is determined in one's
+early childhood. The child's unconscious learns if he/she MUST be taken care of (dissociality)
+or MUST take care of someone else (sociality).
+
+If a child is expected by caregivers to care about him/her, he/she would become a selfish person.
+This child would become competitive, manipulative and can become so deceitful, it can deceive oneself!
+Nature tends to make selfish people fool themselves, because if you don't believe in your own lie,
+you wouldn't be persuasive enough!
+If the Tribal instinct is hyperactive in the child, selfishness can result in an *anxious attachment style*
+described by the *attachment theory*. It can also lead the child to **narcissism** (primarily masculine),
+**histrionicism** (primarily feminine), **Machiavellianism** and sometimes a **borderline pattern**.
+Although not directly related, but selfish people are more prone to disinhibition.
+
+This **dissociality** is the engine behind identity, meaning identity is how dissocial you are!
+And humans define their self-worth through how dissocial they are.
+Identity is a camouflage of self-worth and without the Tribal instinct, there would be no sense of identity at all!
 Without a group and its survival, identity is meaningless, as well as purpose of life!
+What matters most to selfish people is their identity, unlike selfless people whose helpfulness matters most!
 
-### The Engine behind Mental Suffering
+Now if a child is expected by caregivers to care about others,he/she would become a selfless person.
+This child would become hard-working, highly responsible, **conscientious** and sometimes sacrificial.
+The child would also expect others to be moral, honest and overall conscientious as well!
+If the Tribal instinct is hyperactive in the child, selflessness can result in an *avoidant attachment style*.
+It can also lead the child to an **obsessive-compulsive personality** and extreme inhibition.
 
-The Tribal Instinct of the brain makes it tend to falsely regard a person's self-esteem as a matter of life-or-death
+### Across cultures
+
+People in Eastern Asia seem to have developed more sociality as they're quite sacrificial,
+while people in Western Asia and Europe on average seem to inclining towards dissociality and pride,
+especially the Muslim world who are highly proud people.
+
+Selfish cultures create pride-based religions and worship-based ideologies, like all the Abrahamic religions.
+In these religions, your worth is determined by your identity and direction, not your actions.
+Selfless cultures tend to create ascetic and action-based religions where your hard work increases your worth!
+This is how different cultures create their religions based on the ambitions of their unconscious minds.
+
+## The Engine behind Mental Suffering
+
+The Tribal instinct of the brain makes it tend to falsely regard a person's self-worth as a matter of life-or-death
 or even more important than that! Although it wouldn't be false if we consider the survival of a tribe rather than the
 survival of a single individual.
 
-With self-esteem at stake, humans develop expectations that can lead them to extreme disacceptance scenarios.
+With self-worth at stake, humans develop expectations that can lead them to extreme disacceptance scenarios.
 Disacceptance is the key to mental suffering while acceptance is the key to happiness.
 
 ### What if we remove this instinct?
 
-Despite this instinct has been necessary for the survival of human groups in prehistory, self-esteem is not always
+Despite this instinct has been necessary for the survival of human groups in prehistory, self-worth is not always
 necessary for survival of people especially in the modern era.
 Right now it has become the main reason behind most human suffering, including anger, depression, anxiety, suicide,
 murder and rape.
 
-Self-esteem is what makes ownership a perceived reality by people, despite ownership is just an imagination.
+Self-worth is what makes ownership a perceived reality by people, despite ownership is just an imagination.
 Human relationships and especially marriages are theatres created by this instinct.
 It is the engine behind patriotism, morality, conflicts and religions.
 
@@ -94,46 +127,28 @@ Although they might feel stress in actual scenarios of life-or-death.
 
 ### How to end mental suffering?
 
-Self-esteem operates based on ownership, classes and hierarchies;
-if an adult suffers from neurosis because of their self-esteem, a hard but hugely relieving way would be to disbelieve
+Self-worth operates based on ownership, classes and hierarchies;
+if an adult suffers from neurosis because of their self-worth, a hard but hugely relieving way would be to disbelieve
 in the beliefs they have which involve determining worth of themselves or that of others.
 
 A person might believe if I do X I am worthy of applause or if I do Y, I am worthy of punishment.
 As if those who do X are worthier, in higher class than those who do Y!
-The Tribal Instinct is sensitive to this kind of thinking, and it will certainly intrude in their process of thinking
+The Tribal instinct is sensitive to this kind of thinking, and it will certainly intrude in their process of thinking
 with a bunch of diabolical emotions!
 
 If the person revises these kinds of axiological beliefs and become indifferent to them, their defence mechanisms will
 automatically fall.
-I call this method the **Desocialisation of Superego**.
+I call this method the **Desocialisation** or **Decimation of Superego**.
 
 Now there are times when things get more complicated:
 when a social danger co-occurs with an actual danger targeted against self.
 In this scenario and sensitive brain amplifies and exaggerates the actual danger multiple times,
 and it's quite frustrating!
-You would need to carefully isolate the small actual danger from the danger against self-esteem.
-
-### Sociality and Dissociality
-
-The Tribal Instinct has a dimension that indicates one's importance in their group, and it is determined in one's
-childhood. If a child is raised with high importance, it would result in selfishness, **narcissism** (masculine),
-**histrionicism** (feminine) and **Machiavellianism**. If the child is raised with expectations on him/her,
-it would contribute to **conscientiousness** and high responsibility.
-
-Now if the child is raised to be a selfish person, he/she would expect other to care about him/her.
-This child would become competitive and manipulative and can become so deceitful, it can deceive oneself!
-Nature tends to make selfish people fool themselves, because if you don't believe in your own lie,
-you wouldn't be persuasive enough!
-
-Then, if a child is raised to be selfless, he/she would expect oneself to care about others
-and would possess the traits of perseverance, submission, honesty and contextually moral cruelty.
-
-People in Eastern Asia seem to have developed more sociality as they're quite sacrificial,
-while people in Western Asia and all Europeans on average seem to be high on dissociality and pride.
+You would need to carefully isolate the small actual danger from the danger against self-worth.
 
 ### Why does psychotherapy exist?
 
-People with overactive Tribal Instinct are naturally talkative. They're more social than other individual and
+People with overactive Tribal instinct are naturally talkative. They're more social than other individual and
 by "social" I mean that social phenomena are big deals to them. Of course many of them can become socially isolated.
 They're more sensitive to other people and expectations and moral standards.
 
@@ -146,11 +161,17 @@ people. It's like I pay you to listen to me without judgement. Because they are 
 And the sour reality is that psychotherapy will never actually fix their problem, it will only addict them.
 They don't know even what their problem is! Therapists don't understand it either!
 
-### How to make a fortune from the Tribal Instinct?
+Personally I don't believe in psychotherapy at all; we cannot prevent people who don't love science from their
+predetermined mental suffering. And science lovers somehow can and will find their own way to reduce their suffering.
+And any effectiveness they see in therapy is because the sufferers were willing to stop suffering,
+regardless of therapy itself! And therapists know this. They just don't wanna accept it.
+Because if they do, they'd have to look for other jobs in these cruel economies!
+
+### How to make a fortune from people's Tribal Instinct?
 
 The modern psychology is a nice business; they label your mental suffering as "disorders" so that you feel a need to
 "treat" a disorder that never existed! And they can't even fix the root of your problems. They just try to make minor
-changes to how you think to decrease your suffering by less than 1%. And they tempt your Tribal Instinct to talking
+changes to how you think to decrease your suffering by less than 1%. And they tempt your Tribal instinct to talking
 in a safe zone, and you get addicted to it. So you, with a cute smile, pay them fat loads of money which might create
 more monetary problems and mental suffering for you that outweigh that 1% decrease.
 
