@@ -9,10 +9,10 @@ This system revolves around **self-worth** which gives reality to these subjecti
 - Morality
 - Ownership
 - Relationships & Attachments
+- Control & Responsibility
 - Purpose of Life & Desire for Reproduction
-- Responsibility
 
-### Thought Camouflage
+## Thought Camouflage
 
 This instinct creates a camouflage for itself in the mind;
 it instills its ambitions onto consciousness using reasons that seem more logical,
@@ -26,13 +26,13 @@ them, they will stop worrying about matters that their unconscious used as cover
 
 That's why this camouflage of self-worth is created for survival of human groups rather than individual survival!
 
-## Scopes
+## Illusions
 
 This Tribal instinct insists that its obligations are objective realities rather than its own illusions.
 As I mentioned, it is designed precisely for survival of human groups and these groups needed to obsess on
 these illusions to survive: (a person's unconscious can obsess about one or multiple scopes)
 
-#### 1. Friendship & Animosity
+### 1. Friendship, Morality and Animosity
 
 Animals needed trust amongst their own group and also needed to fight aggressors.
 The Tribal instinct developed an illusion of **identity** in humans and obsessed about it.
@@ -40,7 +40,7 @@ This is the most obsessed scope of the Tribal instinct in human beings, dogs and
 and it contributes to pride and **narcissism**.
 Humans are overall narcissistic creatures, some of them being more narcissistic than their average.
 
-The Tribal instinct with this scope of obsession tries to identify one's "group", love it, love its members and
+The Tribal instinct with this scope of obsession tries to identify one's "group", respect it, love its members and
 despise all other groups no matter how innocent they are!
 As a result it contributes to the ambitions of **nationalism**, **patriotism**, **xenophobia** and **racism**,
 and these ambitions are frequently seen in narcissists. Patriots are often racists because they're all narcissists.
@@ -58,7 +58,10 @@ a selfish animal fears death but with this obsession, an animal can become selfl
 oneself for what's **worth fighting for** and for the greater good!
 As a result, an illusion of **morality** was developed.
 
-#### 2. Competition
+Social norms were also developed as a marker of unison so that the group can identify themselves and going against
+social norms would unconsciously and illogically indicate animosity!
+
+### 2. Ownership & Competition
 
 Humans, individually or in groups, needed to compete with one another on possessions in order to be sexually selected
 and ultimately in order to survive.
@@ -80,65 +83,18 @@ Despite these two kinds of competition their behaviours can look differently.
 
 Both of these people prefer sexual relationships with multiple people rather than limited numbers.
 
-#### 3. Control
+### 3. Control
 
 Humans cannot live in anarchist societies because what actually made them social requires a leader in the first place!
 One or some of them become leaders and others blindly follow their orders. This is pure human nature!
-The Tribal inctinct in its scope of responsibility is inclined to blame something at someone at some point
+The Tribal inctinct is inclined to blame something at someone at some point
 and illogically ignore randomness, excuses and impossibilities!!
+
 This illusion of **control** was necessary for both leaders and followers to survive.
+It contributes to **perfectionism** and **obsessive-compulsive** behaviours.
+Perfectionists make great managers, officers, commander, engineers and artists.
 
-
-#### 3. The Ultimate Need for a Leader
-
-#### 3. Uniformity of the group
-
-Humans needed to be in unison; that's why social norms came to be. And if you go out of their shape, they'll despise
-you! The same illusory rewards and punishments of morality is applied to this matter as well.
-
-#### 4. The Ultimate Need for a Leader
-
-
-
-
-- **Order** (perfectionism): It contributes to an **obsessive-compulsive personality**.
-  These people make great managers and officers who bring order to the world.
-
-The Tribal instinct has a dimension that indicates one's importance in their group, and it is determined in one's
-early childhood. The child's unconscious learns if he/she MUST be taken care of (dissociality)
-or MUST take care of someone else (sociality).
-
-If a child is expected by caregivers to care about him/her, he/she would become a selfish person.
-This child would become competitive, manipulative and can become so deceitful, it can deceive oneself!
-Nature tends to make selfish people fool themselves, because if you don't believe in your own lie,
-you wouldn't be persuasive enough!
-If the Tribal instinct is hyperactive in the child, selfishness can result in an *anxious attachment style*
-described by the *attachment theory*. It can also lead the child to **narcissism** (primarily masculine),
-**histrionicism** (primarily feminine), **Machiavellianism** and sometimes a **borderline pattern**.
-Although not directly related, but selfish people are more prone to disinhibition.
-
-This **dissociality** is the engine behind identity, meaning identity is how dissocial you are!
-And humans define their self-worth through how dissocial they are.
-Identity is a camouflage of self-worth and without the Tribal instinct, there would be no sense of identity at all!
-Without a group and its survival, identity is meaningless, as well as purpose of life!
-What matters most to selfish people is their identity, unlike selfless people whose helpfulness matters most!
-
-Now if a child is expected by caregivers to care about others,he/she would become a selfless person.
-This child would become hard-working, highly responsible, **conscientious** and sometimes sacrificial.
-The child would also expect others to be moral, honest and overall conscientious as well!
-If the Tribal instinct is hyperactive in the child, selflessness can result in an *avoidant attachment style*.
-It can also lead the child to an **obsessive-compulsive personality** and extreme inhibition.
-
-### Across cultures
-
-People in Eastern Asia seem to have developed more sociality as they're quite sacrificial,
-while people in Western Asia and Europe on average seem to inclining towards dissociality and pride,
-especially the Muslim world who are highly proud people.
-
-Selfish cultures create pride-based religions and worship-based ideologies, like all the Abrahamic religions.
-In these religions, your worth is determined by your identity and direction, not your actions.
-Selfless cultures tend to create ascetic and action-based religions where your hard work increases your worth!
-This is how different cultures create their religions based on the ambitions of their unconscious minds.
+People of East Asia are more obsessed with control, and it might be caused by their harsh and cold environments.
 
 ### Creator of all Religions
 
