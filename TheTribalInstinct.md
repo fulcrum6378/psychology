@@ -2,37 +2,32 @@
 
 ## Premise
 
-The human brain has developed a system of integrated instincts to become a sociable animal.
-This system revolves around **self-worth** which gives reality to these subjective phenomena:
+Our brains have developed a system of integrated instincts to become sociable animals.
+This system revolves around **worth**.
+The brain defines a scale of worth for every being it identifies and most importantly for oneself.
 
-- Identity
-- Morality
+- For others:
+    - If self-worth increases: it **praises** that person.
+    - If self-worth decreases: it **gets angry** at that person.
+- For oneself (**self-worth**):
+    - If self-worth increases: it **gets satisfied**.
+    - If self-worth decreases: it **gets depressed**.
+
+Worth is merely a bold and persisting illusion; it does not exist in the real world.
+Animals, in order to survive in groups rather than individually,
+they developed instincts that empower the illusion of worth and these systematic worth-based illusions:
+
+- Friendship & Animosity via Clustering
+- Hierarchies & Classes
 - Ownership
+- Morality
 - Relationships & Attachments
 - Control & Responsibility
 - Purpose of Life & Desire for Reproduction
 
-## Thought Camouflage
-
-This instinct creates a camouflage for itself in the mind;
-it instills its ambitions onto consciousness using reasons that seem more logical,
-hiding its actual intent which is none other than self-worth!
-This makes people be strongly apt to follow those decisions as if it's their own life-or-death matter,
-but it's actually a matter of self-worth despite they are unaware of it!
-
-Now why would a camouflage be necessary?
-Because animals have evolved in a selfish way and as soon as a human finds out about how their instinct is deceiving
-them, they will stop worrying about matters that their unconscious used as covers for its own game.
-
-That's why this camouflage of self-worth is created for survival of human groups rather than individual survival!
-
 ## Illusions
 
-This Tribal instinct insists that its obligations are objective realities rather than its own illusions.
-As I mentioned, it is designed precisely for survival of human groups and these groups needed to obsess on
-these illusions to survive: (a person's unconscious can obsess about one or multiple scopes)
-
-### 1. Friendship, Morality and Animosity
+### Friendship & Animosity via Clustering
 
 Animals needed trust amongst their own group and also needed to fight aggressors.
 The Tribal instinct developed an illusion of **identity** in humans and obsessed about it.
@@ -61,7 +56,7 @@ As a result, an illusion of **morality** was developed.
 Social norms were also developed as a marker of unison so that the group can identify themselves and going against
 social norms would unconsciously and illogically indicate animosity!
 
-### 2. Ownership & Competition
+### Ownership & Competition
 
 Humans, individually or in groups, needed to compete with one another on possessions in order to be sexually selected
 and ultimately in order to survive.
@@ -83,7 +78,7 @@ Despite these two kinds of competition their behaviours can look differently.
 
 Both of these people prefer sexual relationships with multiple people rather than limited numbers.
 
-### 3. Control
+### Control
 
 Humans cannot live in anarchist societies because what actually made them social requires a leader in the first place!
 One or some of them become leaders and others blindly follow their orders. This is pure human nature!
@@ -96,6 +91,8 @@ Perfectionists make great managers, officers, commander, engineers and artists.
 
 People of East Asia are more obsessed with control, and it might be caused by their harsh and cold environments.
 
+### Morality
+
 ### Creator of all Religions
 
 Religion is the all-in-one package of the Tribal instinct;
@@ -104,6 +101,20 @@ You can see religions are almost exclusively obsessed about the phenomena I ment
 
 Maintaining a realistic philosophy is exceptionally hard for a human being.
 That's why numerous philosophers have been deceived by their instinct.
+
+## Thought Camouflage
+
+This instinct creates a camouflage for itself in the mind;
+it instills its ambitions onto consciousness using reasons that seem more logical,
+hiding its actual intent which is none other than self-worth!
+This makes people be strongly apt to follow those decisions as if it's their own life-or-death matter,
+but it's actually a matter of self-worth despite they are unaware of it!
+
+Now why would a camouflage be necessary?
+Because animals have evolved in a selfish way and as soon as a human finds out about how their instinct is deceiving
+them, they will stop worrying about matters that their unconscious used as covers for its own game.
+
+That's why this camouflage of self-worth is created for survival of human groups rather than individual survival!
 
 ## The Engine behind Mental Suffering
 
