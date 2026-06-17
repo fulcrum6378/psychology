@@ -13,29 +13,29 @@ The brain defines a scale of worth for every being it identifies and most import
     - If self-worth increases: it **gets satisfied**.
     - If self-worth decreases: it **gets depressed**.
 
-Worth is merely a bold and persisting illusion; it does not exist in the real world.
+Worth is merely a bold and persisting illusion; it doesn't exist in the real world.
 Animals, in order to survive in groups rather than individually,
 they developed instincts that empower the illusion of worth and these systematic worth-based illusions:
 
 - Friendship & Animosity via Clustering
 - Hierarchies & Classes
 - Ownership
-- Morality
 - Relationships & Attachments
 - Control & Responsibility
+- Morality
 - Purpose of Life & Desire for Reproduction
 
 ## Illusions
 
-### Friendship & Animosity via Clustering
+### Friendship, Animosity and Classes
 
 Animals needed trust amongst their own group and also needed to fight aggressors.
 The Tribal instinct developed an illusion of **identity** in humans and obsessed about it.
-This is the most obsessed scope of the Tribal instinct in human beings, dogs and other mammals,
+This is the most obsessed illusion of the Tribal instinct in human beings, dogs and some other mammals,
 and it contributes to pride and **narcissism**.
 Humans are overall narcissistic creatures, some of them being more narcissistic than their average.
 
-The Tribal instinct with this scope of obsession tries to identify one's "group", respect it, love its members and
+The Tribal instinct with this obsessive illusion tries to identify one's "group", respect it, love its members and
 despise all other groups no matter how innocent they are!
 As a result it contributes to the ambitions of **nationalism**, **patriotism**, **xenophobia** and **racism**,
 and these ambitions are frequently seen in narcissists. Patriots are often racists because they're all narcissists.
@@ -47,11 +47,6 @@ that's why they excessively use different defence mechanisms like *projection*
 (attributing one's bad attributes to others) and *repression* to escape reality.
 Despite narcissists might seem so selfish, they can be quite selfless paradoxically!
 This is because their selflessness serves their self-worth and no human actually cares about morality at all!
-
-Humans couldn't survive with their initial animalistic selfishness;
-a selfish animal fears death but with this obsession, an animal can become selfless and sacrifice
-oneself for what's **worth fighting for** and for the greater good!
-As a result, an illusion of **morality** was developed.
 
 Social norms were also developed as a marker of unison so that the group can identify themselves and going against
 social norms would unconsciously and illogically indicate animosity!
@@ -89,11 +84,17 @@ This illusion of **control** was necessary for both leaders and followers to sur
 It contributes to **perfectionism** and **obsessive-compulsive** behaviours.
 Perfectionists make great managers, officers, commander, engineers and artists.
 
-People of East Asia are more obsessed with control, and it might be caused by their harsh and cold environments.
+People of East Asia are more obsessed with the illusion of control,
+and it is presumably caused by their harsh and cold environments.
 
 ### Morality
 
-### Creator of all Religions
+Humans couldn't survive with their initial animalistic selfishness;
+a selfish animal fears death but with this obsession, an animal can become selfless and sacrifice
+oneself for what's **worth fighting for** and for the greater good!
+As a result, an illusion of **morality** was developed.
+
+## Religion
 
 Religion is the all-in-one package of the Tribal instinct;
 it's literally sent to humans from their Mother Nature to survive.
@@ -124,6 +125,7 @@ survival of a single individual.
 
 With self-worth at stake, humans develop expectations that can lead them to extreme disacceptance scenarios.
 Disacceptance is the key to mental suffering while acceptance is the key to happiness.
+It could be possible that the Tribal instinct is the engine behind all disacceptance!
 
 ### What if we remove this instinct?
 
@@ -141,6 +143,8 @@ If it is removed from the brain of a child via genetic engineering, that child m
 It would be impossible for them to get angry, feel sadness, depression or major anxiety!
 They wouldn't become competitive, jealous or Machiavellian either.
 Although they might feel stress in actual scenarios of life-or-death.
+
+I predict that humans WILL remove at least some of their annoying instincts some time in the future.
 
 ### How to end mental suffering?
 
