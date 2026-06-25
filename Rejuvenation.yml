@@ -1,12 +1,8 @@
-- !BEST!:
-  depression: Determinism
-  complex anxiety: Stoicism
-  social anxiety: Desocialisation
-
 - Desocialisation (Decimation of Superego):
     efficacy:
       anxiety: !PERFECT!
       depression: nice
+    speed of progress: slow
 
 - Determinism:
     premises:
@@ -16,3 +12,4 @@
       anger: none
       anxiety: nice if it's about self not others
       depression: !PERFECT!
+    speed of progress: fast
