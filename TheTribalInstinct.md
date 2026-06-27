@@ -228,3 +228,20 @@ They're like white blood cells which are harsh. It's like a white blood cell has
 relationships and gets visited by a therapist and gets diagnosed with OCPD! A white blood cell cannot be romantic.
 Its nature prohibits it! But unfortunately their limited clinical minds cannot grasp the beauty of evolution...
 That's why I chose to regard the modern psychology as a pseudoscience.
+
+## Neither quite social, nor quite egoist
+
+Humans are not like ants. Humans don't have a strong sense of cooperation and self-sacrifice as ants do.
+Humans are highly narcissistic creatures. They are programmed to live in small groups where they can shine,
+not big civilisations where only work matters.
+
+Humans have much dissociality to be seen and simultaneously a tendency to live in norms.
+These two tendencies are exactly the opposite! No wonder they have much mental suffering!
+Their pain shouldn't exist at all! It is hugely the result of a bug in the system of their brain:
+**Two contradicting tendencies!!**
+
+Communism failed because humans are not like ants. Communism wanted to make humans live exactly like ants.
+But Marx and Marxists didn't realise that humans are not 100% social creatures. Humans stink at cooperation!
+Human nature tends to live in small groups like dogs, and if they cooperate, it is a dissocial cooperation,
+meaning "I'm helping others because **I am nice and lovely**" not because "I'm helping out for the greater good"
+Nevertheless ants are not quite communistic either; they have hierarchies as well.
