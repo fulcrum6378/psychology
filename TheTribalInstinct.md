@@ -7,8 +7,8 @@ This system revolves around **worth**.
 The brain defines a scale of worth for every being it identifies and most importantly for oneself.
 
 - For others:
-    - If self-worth increases: it **praises** that person.
-    - If self-worth decreases: it **gets angry** at that person.
+    - If their worth increases: it **praises** that person.
+    - If their worth decreases: it **gets angry** at that person.
 - For oneself (**self-worth**):
     - If self-worth increases: it **gets satisfied**.
     - If self-worth decreases: it **gets depressed**.
