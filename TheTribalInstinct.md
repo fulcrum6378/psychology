@@ -245,3 +245,10 @@ But Marx and Marxists didn't realise that humans are not 100% social creatures. 
 Human nature tends to live in small groups like dogs, and if they cooperate, it is a dissocial cooperation,
 meaning "I'm helping others because **I am nice and lovely**" not because "I'm helping out for the greater good"
 Nevertheless ants are not quite communistic either; they have hierarchies as well.
+
+## As a part of the whole
+
+I have a more compatible theory than Freud's id-ego-superego theory:
+There is a decision-making system called "self" with access to memory,
+ruled by a reward system and on top of that reward system, like an add-on, there's a system of social instincts.
+So superego and id are the same thing (reward system) with different architectures.
