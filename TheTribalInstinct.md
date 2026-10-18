@@ -27,7 +27,7 @@ they developed instincts that empower the illusion of worth and these systematic
 
 ## Illusions
 
-### Friendship, Animosity and Classes
+### Friendship, Animosity and Hierarchies
 
 Animals needed trust amongst their own group and also needed to fight aggressors.
 The Tribal instinct developed an illusion of **identity** in humans and obsessed about it.
@@ -105,8 +105,8 @@ That's why numerous philosophers have been deceived by their instinct.
 
 ## Thought Camouflage
 
-This instinct creates a camouflage for itself in the mind;
-it instills its ambitions onto consciousness using reasons that seem more logical,
+The Tribal instinct creates a camouflage for itself in the mind;
+it instills its ambitions onto consciousness using other reasons that seem more logical,
 hiding its actual intent which is none other than self-worth!
 This makes people be strongly apt to follow those decisions as if it's their own life-or-death matter,
 but it's actually a matter of self-worth despite they are unaware of it!
@@ -244,7 +244,7 @@ Communism failed because humans are not like ants. Communism wanted to make huma
 But Marx and Marxists didn't realise that humans are not 100% social creatures. Humans stink at cooperation!
 Human nature tends to live in small groups like dogs, and if they cooperate, it is a dissocial cooperation,
 meaning "I'm helping others because **I am nice and lovely**" not because "I'm helping out for the greater good"
-Nevertheless ants are not quite communistic either; they have hierarchies as well.
+Nonetheless ants are not quite communistic either; because they have hierarchies as well.
 
 ## As a part of the whole
 

@@ -48,7 +48,7 @@ Humans are world-altering machines! It's their nature, not their "disorders".
 > Humans suffer their unrealistic beliefs and unmet expectations.
 
 Happiness comes from **values matching one's environment**.
-Therefore psychological relief, or as psychoanalysts call it "healing", should come from these ways:
+Therefore, psychological relief, or as psychoanalysts call it "healing", should come from these ways:
 
 1. **Changing one's environment**:
    This is the most effective way of achieving happiness.
@@ -63,7 +63,7 @@ Therefore psychological relief, or as psychoanalysts call it "healing", should c
 
 2. **Changing one's values**:
    This is critically hard but is effective on depression, but not on anger or anxiety.
-   Psychoanalysists and logotherapists utilise it.
+   Psychoanalysts and logotherapists utilise it.
    EMDR and other exposure methods try to change unconscious values and are effective on phobias.
 
 3. **Changing how you perceive your environment** (cognitive restructuring):
